@@ -14,7 +14,7 @@ class Person {
 var people = [Bart];
 
 let andrea = new Person();
-people.push(andrea);
+people.push("Captain andrea");
 
 let kai = new Person();
 people.push(kai);
