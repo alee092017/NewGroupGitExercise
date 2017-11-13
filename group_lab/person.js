@@ -12,3 +12,8 @@ class Person {
 }
 
 var people = [];
+
+let andrea = new Person();
+people.push(andrea);
+
+
