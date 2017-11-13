@@ -10,3 +10,5 @@ class Person {
     console.log(`My gender is ${this.gender}`);
   }
 }
+
+var people = [];
