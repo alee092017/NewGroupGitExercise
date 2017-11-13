@@ -1,4 +1,4 @@
-class Person {
+class Student {
   constructor(options) {
     this.name = options.name || 'John Smith';
     this.age = options.age;
@@ -11,11 +11,11 @@ class Person {
   }
 }
 
-var people = [Bart];
+var students = [Bart];
 
-let andrea = new Person();
-people.push("Captain andrea");
+let andrea = new Student();
+students.push("Captain andrea");
 
-let kai = new Person();
-people.push(kai);
+let kai = new Student();
+students.push(kai);
 
