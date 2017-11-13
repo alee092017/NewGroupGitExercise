@@ -11,9 +11,11 @@ class Person {
   }
 }
 
-var people = [];
+var people = [Bart];
 
 let andrea = new Person();
 people.push(andrea);
 
+let kai = new Person();
+people.push(kai);
 
